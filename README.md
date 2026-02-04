@@ -22,7 +22,7 @@ Design an **Agentic AI System** with two or more collaborating agents to perform
 
 ---
 
-## 🏗️ System Architecture
+## 🏗️ System Architecture and Project Structure
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/78c570ce-8ddb-4110-b817-0f08e8766333" />
 
 ---
