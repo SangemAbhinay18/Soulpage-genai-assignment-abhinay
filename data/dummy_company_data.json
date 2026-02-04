@@ -1,0 +1,18 @@
+{
+  "Tesla": {
+    "news": [
+      "Tesla launches new AI-powered Full Self Driving update",
+      "Tesla stock rises after strong quarterly earnings"
+    ],
+    "stock_price": "245 USD",
+    "trend": "Upward"
+  },
+  "Google": {
+    "news": [
+      "Google introduces new Gemini AI model",
+      "Alphabet faces antitrust investigation"
+    ],
+    "stock_price": "138 USD",
+    "trend": "Stable"
+  }
+}
