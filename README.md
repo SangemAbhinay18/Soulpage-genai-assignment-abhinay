@@ -87,15 +87,22 @@ https://ollama.com
 Pull the model:
 ```bash
 ollama pull llama3
+
 2️⃣ Install Dependencies
 pip install -r requirements.txt
+
 3️⃣ Run via CLI
 python main.py
+
 4️⃣ Run Streamlit UI
 streamlit run app.py
+
 🧪 Example Output
+
 📊 Company Intelligence Report
+Enter company name : Amazon
 Overview:
+
 Amazon is a multinational technology company operating in e-commerce, cloud computing (AWS), digital streaming, and AI services.
 
 Key Insights:
