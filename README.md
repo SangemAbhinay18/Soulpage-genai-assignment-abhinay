@@ -23,24 +23,7 @@ Design an **Agentic AI System** with two or more collaborating agents to perform
 ---
 
 ## 🏗️ System Architecture
-
-User Input (Company Name)
-↓
-┌────────────────────────────┐
-│ Agent 1: Data Collector │
-│ - Loads structured data │
-│ - Uses JSON as a tool │
-└───────────┬────────────────┘
-↓
-┌────────────────────────────┐
-│ Agent 2: Analyst │
-│ - Uses Ollama (LLaMA 3) │
-│ - Generates insights │
-│ - Auto-fallback logic │
-└───────────┬────────────────┘
-↓
-Company Intelligence Report
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/78c570ce-8ddb-4110-b817-0f08e8766333" />
 
 ---
 
@@ -92,21 +75,6 @@ A clean Streamlit UI is provided to interact with the system:
 - Ollama (local LLM runtime)  
 - Streamlit  
 - JSON-based knowledge base  
-
----
-
-## 📂 Project Structure
-
-company-intelligence-agent/
-│
-├── main.py # LangGraph workflow & agents
-├── app.py # Streamlit UI
-├── data/
-│ └── dummy_company_data.json
-├── requirements.txt
-└── README.md
-
-
 ---
 
 ## ⚙️ Setup Instructions
